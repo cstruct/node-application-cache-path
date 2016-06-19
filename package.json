@@ -1,0 +1,22 @@
+{
+  "name": "application-cache-path",
+  "version": "0.0.0",
+  "description": "Get a directory where the OS wants you to store cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstruct/node-application-cache-path.git"
+  },
+  "author": "Albin Mattsson <albin@mattsson.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cstruct/node-application-cache-path/issues"
+  },
+  "homepage": "https://github.com/cstruct/node-application-cache-path#readme",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
